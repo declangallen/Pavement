@@ -1,0 +1,38 @@
+MN I-35W 0.0 1.0 N REL Epoxy 1234 TCB none	6A10560M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	36.745 pulses/m (11.200 pulses/ft)	
+Hardware ID                    :	105-L	
+Software Version               :	6.12	
+Date                           :	01/10/116	
+Start Time                     :	16:40	
+Stop Time                      :	16:41	
+Start Chainage                 :	     0.000	 mi
+End Chainage                   :	     0.500	 mi
+Start GPS Coordinates          :	45.32733 N	93.23631 W
+End GPS Coordinates            :	45.33363 N	93.23641 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	110	
+Upper Validation Threshold     :	130	
+Rejection Threshold            :	700	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	153	 34.11	
+Valid Scan Percentage          :	  2%	
+Average Left Stripe Width (in) :	0.0	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	Unknown	
+State                          :	MN	
+Highway                        :	I-35W	
+        Percent of Intervals <    85  :	  0%
+  85 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  150  :	 67%
+ 150 <  Percent of Intervals <=  200  :	  0%
+ 200 <  Percent of Intervals <=  300  :	 33%
+ 300 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp   0.1000	   0	  0	 55	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 0.00	 45.3288N	 93.2363W	 0	 25.2
+    0.2000	 129	  3	 50	  0	   0	   0	128.7	   1	WOC00V0000000000	 4.93	 45.3304N	 93.2364W	 0	 25.2
+    0.3000	 140	  2	 52	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 4.95	 45.3316N	 93.2364W	 0	 25.2
+    0.4000	   0	  0	 54	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 0.00	 45.3331N	 93.2364W	 0	 25.2
+    0.5000	 202	  2	 20	  0	   0	   0	100.0	   2	WOC00V0000000000	12.73	 45.3336N	 93.2364W	 0	 25.1
