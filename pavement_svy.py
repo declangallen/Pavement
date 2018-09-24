@@ -58,9 +58,17 @@ for idx, val in enumerate(list_of_files):
 	pavement_data[file_list[T_F[idx]]] = b
 
 
+for key, value in pavement_data.items():
+	value['Data']['Survey'] = key
 
-f = pd.DataFrame(b, index = [0])
-f.to_csv('test.csv')
+col = pavement_data['8880290M.3L0']['Data'].columns
 
-txt = open(file_list[idx])
-pd.read_csv(txt, skiprows = len(d)+3, sep = '\t')
+appended_data = []
+for key, value in pavement_data.items():
+	dat = value['Data']
+	dat.columns = col
+	appended_data.append(dat)
+appended_data = pd.concat(appended_data)
+
+appended_data.to_csv('test.csv')
+
