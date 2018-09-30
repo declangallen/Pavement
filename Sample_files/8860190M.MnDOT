@@ -1,0 +1,69 @@
+Comments/Description	Displays the Primary State Project Number	Displays the date when the line was installed.	Displays the time that striping started.	Displays the time that striping ended.	Displays the route system class.	Displays the route number with system type.	Direction of travel on roadway.	Displays the starting reference post number with offset value where retroreflectivity readings were taken.	Displays the ending reference post number with offset value where retroreflectivity readings were taken.	Displays the geographic latitude value of the starting point location.	Displays the geographic longitude value of the starting point location.	Displays the geographic latitude value of the ending point location.	Displays the geographic longitude value of the ending point location.	Marking line type	Displays the average retroreflectivity reading for the segment reported.  Have 10 rows for the 1/10th mile segments and then one row to summarize the 1 mile segment.	Displays the standard deviation of retroreflective reading for the segment reported.  Have 10 rows for 1/10th mile and then one row to summarize the 1 mile segment.	Marking Material Type	Displays the presence of a pavement groove.	Displays the presence of a pavement rumble stripe.	Displays commentary about the roadway or collection process.	Displays the year the line was installed	Displays the contrast value of the pavement marking.
+					MN	113	I	  10.0	  10.1	 47.1806N	 96.0470W	 47.1806N	 96.0450W	REL	 191	29.75						   5.8
+					MN	113	I	  10.1	  10.2	 47.1806N	 96.0450W	 47.1806N	 96.0427W	REL	 146	40.14						   4.2
+					MN	113	I	  10.2	  10.3	 47.1806N	 96.0427W	 47.1806N	 96.0407W	REL	 197	43.81						   6.1
+					MN	113	I	  10.3	  10.4	 47.1806N	 96.0407W	 47.1806N	 96.0387W	REL	 220	47.43						   8.2
+					MN	113	I	  10.4	  10.5	 47.1806N	 96.0387W	 47.1806N	 96.0364W	REL	 177	33.35						   5.4
+					MN	113	I	  10.5	  10.6	 47.1806N	 96.0364W	 47.1806N	 96.0344W	REL	 173	41.75						   5.4
+					MN	113	I	  10.6	  10.7	 47.1806N	 96.0344W	 47.1806N	 96.0321W	REL	 172	24.93						   5.1
+					MN	113	I	  10.7	  10.8	 47.1806N	 96.0321W	 47.1806N	 96.0301W	REL	 193	29.39						   6.2
+					MN	113	I	  10.8	  10.9	 47.1806N	 96.0301W	 47.1806N	 96.0281W	REL	 185	25.20						   5.9
+					MN	113	I	  10.9	  11.0	 47.1806N	 96.0281W	 47.1806N	 96.0258W	REL	 174	34.17						   5.4
+ONE MILE AVG															 182
+					MN	113	I	  11.0	  11.1	 47.1806N	 96.0258W	 47.1806N	 96.0238W	REL	 154	24.48						   4.5
+					MN	113	I	  11.1	  11.2	 47.1806N	 96.0238W	 47.1806N	 96.0218W	REL	 160	30.98						   4.7
+					MN	113	I	  11.2	  11.3	 47.1806N	 96.0218W	 47.1806N	 96.0195W	REL	 190	25.65						   5.8
+					MN	113	I	  11.3	  11.4	 47.1806N	 96.0195W	 47.1806N	 96.0175W	REL	 150	67.36						   5.6
+					MN	113	I	  11.4	  11.5	 47.1806N	 96.0175W	 47.1806N	 96.0152W	REL	 111	18.17						   3.0
+					MN	113	I	  11.5	  11.6	 47.1806N	 96.0152W	 47.1806N	 96.0132W	REL	 112	20.32						   3.2
+					MN	113	I	  11.6	  11.7	 47.1806N	 96.0132W	 47.1806N	 96.0112W	REL	 115	20.15						   3.4
+					MN	113	I	  11.7	  11.8	 47.1806N	 96.0112W	 47.1806N	 96.0089W	REL	 115	17.52						   3.1
+					MN	113	I	  11.8	  11.9	 47.1806N	 96.0089W	 47.1806N	 96.0069W	REL	 157	39.22						   4.6
+					MN	113	I	  11.9	  12.0	 47.1806N	 96.0069W	 47.1806N	 96.0049W	REL	 125	27.51						   3.6
+ONE MILE AVG															 139
+					MN	113	I	  12.0	  12.1	 47.1806N	 96.0049W	 47.1806N	 96.0026W	REL	  92	20.51						   2.6
+					MN	113	I	  12.1	  12.2	 47.1806N	 96.0026W	 47.1806N	 96.0006W	REL	 107	22.11						   2.8
+					MN	113	I	  12.2	  12.3	 47.1806N	 96.0006W	 47.1806N	 95.9986W	REL	 112	21.37						   3.0
+					MN	113	I	  12.3	  12.4	 47.1806N	 95.9986W	 47.1806N	 95.9963W	REL	  94	15.17						   2.9
+					MN	113	I	  12.4	  12.5	 47.1806N	 95.9963W	 47.1806N	 95.9943W	REL	 110	28.83						   3.0
+					MN	113	I	  12.5	  12.6	 47.1806N	 95.9943W	 47.1806N	 95.9920W	REL	 134	31.61						   3.8
+					MN	113	I	  12.6	  12.7	 47.1806N	 95.9920W	 47.1806N	 95.9900W	REL	 178	24.08						   5.4
+					MN	113	I	  12.7	  12.8	 47.1806N	 95.9900W	 47.1806N	 95.9880W	REL	 174	36.89						   5.2
+					MN	113	I	  12.8	  12.9	 47.1806N	 95.9880W	 47.1806N	 95.9857W	REL	 195	30.35						   6.0
+					MN	113	I	  12.9	  13.0	 47.1806N	 95.9857W	 47.1806N	 95.9837W	REL	 200	27.97						   5.9
+ONE MILE AVG															 141
+					MN	113	I	  13.0	  13.1	 47.1806N	 95.9837W	 47.1806N	 95.9817W	REL	 202	22.15						   6.0
+					MN	113	I	  13.1	  13.2	 47.1806N	 95.9817W	 47.1806N	 95.9794W	REL	 202	24.44						   6.0
+					MN	113	I	  13.2	  13.3	 47.1806N	 95.9794W	 47.1806N	 95.9774W	REL	 191	25.84						   5.6
+					MN	113	I	  13.3	  13.4	 47.1806N	 95.9774W	 47.1806N	 95.9750W	REL	 182	28.26						   5.3
+					MN	113	I	  13.4	  13.5	 47.1806N	 95.9750W	 47.1806N	 95.9731W	REL	 173	42.06						   5.4
+					MN	113	I	  13.5	  13.6	 47.1806N	 95.9731W	 47.1806N	 95.9711W	REL	 165	24.90						   4.7
+					MN	113	I	  13.6	  13.7	 47.1806N	 95.9711W	 47.1806N	 95.9687W	REL	 116	29.47						   3.2
+					MN	113	I	  13.7	  13.8	 47.1806N	 95.9687W	 47.1806N	 95.9668W	REL	 122	37.64						   3.4
+					MN	113	I	  13.8	  13.9	 47.1806N	 95.9668W	 47.1806N	 95.9648W	REL	 112	16.83						   2.9
+					MN	113	I	  13.9	  14.0	 47.1806N	 95.9648W	 47.1806N	 95.9624W	REL	 116	11.37						   3.0
+ONE MILE AVG															 159
+					MN	113	I	  14.0	  14.1	 47.1806N	 95.9624W	 47.1806N	 95.9604W	REL	 117	19.92						   3.2
+					MN	113	I	  14.1	  14.2	 47.1806N	 95.9604W	 47.1806N	 95.9581W	REL	 125	20.40						   3.5
+					MN	113	I	  14.2	  14.3	 47.1806N	 95.9581W	 47.1806N	 95.9561W	REL	 143	28.28						   4.3
+					MN	113	I	  14.3	  14.4	 47.1806N	 95.9561W	 47.1805N	 95.9541W	REL	 177	37.72						   7.1
+					MN	113	I	  14.4	  14.5	 47.1805N	 95.9541W	 47.1805N	 95.9518W	REL	 167	44.10						   5.7
+					MN	113	I	  14.5	  14.6	 47.1805N	 95.9518W	 47.1805N	 95.9498W	REL	 115	68.17						   3.6
+					MN	113	I	  14.6	  14.7	 47.1805N	 95.9498W	 47.1805N	 95.9476W	REL	  68	26.90						   1.9
+					MN	113	I	  14.7	  14.8	 47.1805N	 95.9476W	 47.1805N	 95.9455W	REL	  55	10.21						   1.2
+					MN	113	I	  14.8	  14.9	 47.1805N	 95.9455W	 47.1805N	 95.9434W	REL	  48	14.34						   2.7
+					MN	113	I	  14.9	  15.0	 47.1805N	 95.9434W	 47.1805N	 95.9412W	REL	 104	55.42						   4.0
+ONE MILE AVG															 110
+					MN	113	I	  15.0	  15.1	 47.1805N	 95.9412W	 47.1805N	 95.9392W	REL	  98	57.10						   7.2
+					MN	113	I	  15.1	  15.2	 47.1805N	 95.9392W	 47.1805N	 95.9371W	REL	 107	57.16						   4.1
+					MN	113	I	  15.2	  15.3	 47.1805N	 95.9371W	 47.1805N	 95.9350W	REL	  70	20.36						   1.9
+					MN	113	I	  15.3	  15.4	 47.1805N	 95.9350W	 47.1804N	 95.9329W	REL	  60	17.63						   6.5
+					MN	113	I	  15.4	  15.5	 47.1804N	 95.9329W	 47.1804N	 95.9308W	REL	  71	25.47						   7.0
+					MN	113	I	  15.5	  15.6	 47.1804N	 95.9308W	 47.1804N	 95.9286W	REL	 123	37.99						   4.4
+					MN	113	I	  15.6	  15.7	 47.1804N	 95.9286W	 47.1803N	 95.9264W	REL	 167	26.95						   6.3
+					MN	113	I	  15.7	  15.8	 47.1803N	 95.9264W	 47.1803N	 95.9245W	REL	 114	29.70						   4.0
+					MN	113	I	  15.8	  15.9	 47.1803N	 95.9245W	 47.1803N	 95.9225W	REL	 145	39.00						   5.1
+					MN	113	I	  15.9	  16.0	 47.1803N	 95.9225W	 47.1802N	 95.9202W	REL	 120	42.74						   4.2
+ONE MILE AVG															 107
+					MN	113	I	  16.0	  16.1	 47.1802N	 95.9202W	 47.1802N	 95.9197W	REL	  83	 8.09						   2.1
+ONE MILE AVG															  83

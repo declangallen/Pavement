@@ -1,0 +1,41 @@
+MN 169 10.7 10.1 S CL   JT 	8880230M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.40	
+Date                           :	08/08/118	
+Start Time                     :	13:42	
+Stop Time                      :	13:44	
+Start Chainage                 :	    10.700	 mi
+End Chainage                   :	    10.000	 mi
+Start GPS Coordinates          :	43.65276 N	94.09492 W
+End GPS Coordinates            :	43.64365 N	94.09131 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	103	 41.22	
+Valid Scan Percentage          :	 53%	
+Average Left Stripe Width (in) :	4.3	
+Average Right Stripe Width (in):	3.9	
+Contrast Ratio                 :	3.1	
+State                          :	MN	
+Highway                        :	169	
+        Percent of Intervals <    80  :	 29%
+  80 <= Percent of Intervals <   100  :	 29%
+ 100 <= Percent of Intervals <=  145  :	 43%
+ 145 <  Percent of Intervals <=  175  :	  0%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Tempemp
+   10.6000	  59	 45	 61	  3	  52	  69	  1.7	  22	YOC00V0000060000	17.36	 43.6515N	 94.0944W	 0	 27.1
+   10.5000	 130	 65	 40	 48	 144	 126	  4.2	  25	YTC00I0000007000	32.51	 43.6501N	 94.0936W	 0	 27.2
+   10.4000	  94	 19	 87	 11	  99	  86	  2.4	  28	YTC00V0000007000	12.73	 43.6488N	 94.0930W	 0	 27.2
+   10.3000	 105	 91	 14	 74	 116	  93	  2.9	  27	YTC00V0000000000	20.10	 43.6474N	 94.0926W	 0	 27.3
+   10.2000	 131	 79	 27	 60	 149	 124	  4.1	  26	YTC00V0000000800	50.55	 43.6460N	 94.0921W	 0	 27.3
+   10.1000	  83	 54	 52	  0	   0	   0	  2.3	  25	YOC00V0000060000	30.22	 43.6446N	 94.0917W	 0	 27.4
+   10.0000	  69	 26	 49	  0	   0	   0	  2.0	  23	YTC00I0000007000	29.86	 43.6437N	 94.0913W	 0	 27.4

@@ -1,0 +1,39 @@
+MN 99 128.6 120.0 W LL   JT 	8860150M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-R	
+Software Version               :	7.40	
+Date                           :	06/08/118	
+Start Time                     :	14:08	
+Stop Time                      :	14:08	
+Start Chainage                 :	   128.600	 mi
+End Chainage                   :	   128.100	 mi
+Start GPS Coordinates          :	46.65904 N	96.40551 W
+End GPS Coordinates            :	46.65904 N	96.40551 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	168	  8.03	
+Valid Scan Percentage          :	 98%	
+Average Left Stripe Width (in) :	0.0	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	5.0	
+State                          :	MN	
+Highway                        :	99	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	  0%
+ 145 <  Percent of Intervals <=  175  :	100%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+  128.5000	 168	 31	  1	  0	   0	   0	  5.0	  28	WOS00V0000000000	 9.63	 46.6590N	 96.4055W	 0	 25.3
+  128.4000	 166	 33	  0	  0	   0	   0	  5.0	  28	WOS00V0000000000	 8.58	 46.6590N	 96.4055W	 0	 25.3
+  128.3000	 171	 31	  0	  0	   0	   0	  5.1	  28	WOS00V0000000000	 8.30	 46.6590N	 96.4055W	 0	 25.4
+  128.2000	 169	 34	  1	  0	   0	   0	  5.0	  28	WOS00V0000000000	 5.67	 46.6590N	 96.4055W	 0	 25.3
+  128.1000	 164	 31	  0	  0	   0	   0	  4.9	  28	WOS00V0000000000	 6.49	 46.6590N	 96.4055W	 0	 25.3

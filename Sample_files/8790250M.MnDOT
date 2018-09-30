@@ -1,0 +1,14 @@
+Comments/Description	Displays the Primary State Project Number	Displays the date when the line was installed.	Displays the time that striping started.	Displays the time that striping ended.	Displays the route system class.	Displays the route number with system type.	Direction of travel on roadway.	Displays the starting reference post number with offset value where retroreflectivity readings were taken.	Displays the ending reference post number with offset value where retroreflectivity readings were taken.	Displays the geographic latitude value of the starting point location.	Displays the geographic longitude value of the starting point location.	Displays the geographic latitude value of the ending point location.	Displays the geographic longitude value of the ending point location.	Marking line type	Displays the average retroreflectivity reading for the segment reported.  Have 10 rows for the 1/10th mile segments and then one row to summarize the 1 mile segment.	Displays the standard deviation of retroreflective reading for the segment reported.  Have 10 rows for 1/10th mile and then one row to summarize the 1 mile segment.	Marking Material Type	Displays the presence of a pavement groove.	Displays the presence of a pavement rumble stripe.	Displays commentary about the roadway or collection process.	Displays the year the line was installed	Displays the contrast value of the pavement marking.
+					MN	169	I	   2.0	   2.1	 43.5288N	 94.0865W	 43.5303N	 94.0863W	CL	  90	22.33						   2.5
+					MN	169	I	   2.1	   2.2	 43.5303N	 94.0863W	 43.5319N	 94.0861W	CL	 129	 2.12						   4.0
+					MN	169	I	   2.2	   2.3	 43.5319N	 94.0861W	 43.5331N	 94.0860W	CL	 105	 1.41						   3.0
+					MN	169	I	   2.3	   2.4	 43.5331N	 94.0860W	 43.5347N	 94.0858W	CL	  95	 0.00						   3.0
+					MN	169	I	   2.4	   2.5	 43.5347N	 94.0858W	 43.5362N	 94.0856W	CL	  77	16.13						   2.7
+					MN	169	I	   2.5	   2.6	 43.5362N	 94.0856W	 43.5375N	 94.0855W	CL	 108	 0.00						   4.1
+					MN	169	I	   2.6	   2.7	 43.5375N	 94.0855W	 43.5390N	 94.0853W	CL	 118	 0.00						   3.7
+					MN	169	I	   2.7	   2.8	 43.5390N	 94.0853W	 43.5405N	 94.0851W	CL	 141	 0.00						   4.4
+					MN	169	I	   2.8	   2.9	 43.5405N	 94.0851W	 43.5418N	 94.0850W	CL	  69	 9.83						   1.9
+					MN	169	I	   2.9	   3.0	 43.5418N	 94.0850W	 43.5433N	 94.0848W	CL	  91	14.91						   3.0
+ONE MILE AVG															  91
+					MN	169	I	   3.0	   3.1	 43.5433N	 94.0848W	 43.5439N	 94.0847W	CL	  81	23.69						   2.9
+ONE MILE AVG															  81

@@ -14,6 +14,7 @@ print(cwd)
 files = os.listdir(path)
 print(files)
 
+
 T_F = list()
 for n in files:
 	x = '.3L0' in n
@@ -26,11 +27,12 @@ list_of_files = list()
 for idx, n in enumerate(file_list):
 	with open(n) as f:
 		lines = list(f)
-		if any ('Seconds' in t for t in lines):
-			pass
-		else:
+		if any('Chain' in t for t in lines):
 			list_of_files.append(lines)
 			T_F.append(idx)
+		else:
+			pass
+
 
 pavement_data = dict()
 for idx, val in enumerate(list_of_files):
@@ -40,7 +42,7 @@ for idx, val in enumerate(list_of_files):
 			pass
 		else:
 			c = a.split(':')
-			c_b = list()
+			meta = list()
 			for v in c:
 				x = '_'.join(v.split())
 				c_b.append(x)

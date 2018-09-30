@@ -1,0 +1,36 @@
+MN 34 69.5 70.0 E REL   JT 	8870170M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-R	
+Software Version               :	7.40	
+Date                           :	07/08/118	
+Start Time                     :	11:40	
+Stop Time                      :	11:41	
+Start Chainage                 :	    69.500	 mi
+End Chainage                   :	    69.700	 mi
+Start GPS Coordinates          :	46.92104 N	95.13329 W
+End GPS Coordinates            :	46.92115 N	95.12926 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	182	 43.59	
+Valid Scan Percentage          :	 97%	
+Average Left Stripe Width (in) :	0.0	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	5.5	
+State                          :	MN	
+Highway                        :	34	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	  0%
+ 145 <  Percent of Intervals <=  175  :	 50%
+ 175 <  Percent of Intervals <=  250  :	 50%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+   69.6000	 167	101	  5	  0	   0	   0	  5.2	  27	WOC00V0000000000	43.24	 46.9211N	 95.1313W	 0	 26.0
+   69.7000	 199	 90	  0	  0	   0	   0	  5.9	  29	WOC00V0000000000	37.45	 46.9212N	 95.1293W	 0	 26.0

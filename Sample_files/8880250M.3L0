@@ -1,0 +1,38 @@
+MN 19 152.6 153.0 E CL   JT 	8880250M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.40	
+Date                           :	08/08/118	
+Start Time                     :	16:04	
+Stop Time                      :	16:06	
+Start Chainage                 :	   152.600	 mi
+End Chainage                   :	   153.000	 mi
+Start GPS Coordinates          :	44.54358 N	93.54916 W
+End GPS Coordinates            :	44.54358 N	93.54126 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	145	 49.20	
+Valid Scan Percentage          :	 61%	
+Average Left Stripe Width (in) :	4.2	
+Average Right Stripe Width (in):	4.1	
+Contrast Ratio                 :	5.3	
+State                          :	MN	
+Highway                        :	19	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	 50%
+ 145 <  Percent of Intervals <=  175  :	 50%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+  152.7000	 113	 65	 31	 49	 114	 119	  3.9	  23	YTC00V0000000000	33.04	 44.5436N	 93.5472W	 0	 33.5
+  152.8000	 167	 69	 19	 57	 195	 156	  6.3	  23	YTC00V0000000000	45.20	 44.5436N	 93.5451W	 0	 33.5
+  152.9000	 112	 31	 59	 22	 133	  85	  3.9	  23	YTC00I0000007000	35.35	 44.5436N	 93.5432W	 0	 33.5
+  153.0000	 173	 56	 27	 30	 208	 182	  6.5	  23	YTS01V0000000000	44.20	 44.5436N	 93.5413W	 0	 33.5

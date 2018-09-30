@@ -1,0 +1,39 @@
+MN 19 153.0 152.6 W CL   JT 	8880260M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.40	
+Date                           :	08/08/118	
+Start Time                     :	16:08	
+Stop Time                      :	16:09	
+Start Chainage                 :	   153.000	 mi
+End Chainage                   :	   152.500	 mi
+Start GPS Coordinates          :	44.54361 N	93.54053 W
+End GPS Coordinates            :	44.54360 N	93.54980 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	143	 54.53	
+Valid Scan Percentage          :	 48%	
+Average Left Stripe Width (in) :	3.9	
+Average Right Stripe Width (in):	4.2	
+Contrast Ratio                 :	4.5	
+State                          :	MN	
+Highway                        :	19	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	 60%
+ 145 <  Percent of Intervals <=  175  :	 40%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+  152.9000	 173	 32	 53	 10	 243	 175	  5.9	  25	YTC00V0000000000	65.98	 44.5436N	 93.5428W	 0	 33.7
+  152.8000	 137	 11	 76	  8	 153	 117	  4.3	  26	YTC00V0000007000	34.10	 44.5436N	 93.5447W	 0	 33.6
+  152.7000	 159	 55	 31	 44	 173	 155	  5.4	  25	YTC00V0000000000	62.32	 44.5436N	 93.5467W	 0	 33.7
+  152.6000	 112	 57	 29	 49	 126	 101	  3.3	  26	YTC00V0000000000	26.53	 44.5436N	 93.5486W	 0	 33.7
+  152.5000	 142	 35	 14	  8	 135	 110	  4.7	  25	YTC00I0000000000	45.07	 44.5436N	 93.5498W	 0	 33.7

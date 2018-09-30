@@ -1,0 +1,30 @@
+Comments/Description	Displays the Primary State Project Number	Displays the date when the line was installed.	Displays the time that striping started.	Displays the time that striping ended.	Displays the route system class.	Displays the route number with system type.	Direction of travel on roadway.	Displays the starting reference post number with offset value where retroreflectivity readings were taken.	Displays the ending reference post number with offset value where retroreflectivity readings were taken.	Displays the geographic latitude value of the starting point location.	Displays the geographic longitude value of the starting point location.	Displays the geographic latitude value of the ending point location.	Displays the geographic longitude value of the ending point location.	Marking line type	Displays the average retroreflectivity reading for the segment reported.  Have 10 rows for the 1/10th mile segments and then one row to summarize the 1 mile segment.	Displays the standard deviation of retroreflective reading for the segment reported.  Have 10 rows for 1/10th mile and then one row to summarize the 1 mile segment.	Marking Material Type	Displays the presence of a pavement groove.	Displays the presence of a pavement rumble stripe.	Displays commentary about the roadway or collection process.	Displays the year the line was installed	Displays the contrast value of the pavement marking.
+					MN	99	D	 128.6	 128.5	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 151	 5.58						   4.4
+					MN	99	D	 128.5	 128.4	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 147	 3.68						   4.3
+					MN	99	D	 128.4	 128.3	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 4.89						   4.3
+					MN	99	D	 128.3	 128.2	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 149	 5.47						   4.3
+					MN	99	D	 128.2	 128.1	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 152	 5.35						   4.4
+					MN	99	D	 128.1	 128.0	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 153	 6.67						   4.5
+					MN	99	D	 128.0	 127.9	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 5.31						   4.3
+					MN	99	D	 127.9	 127.8	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 151	 6.47						   4.4
+					MN	99	D	 127.8	 127.7	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 146	 5.53						   4.4
+					MN	99	D	 127.7	 127.6	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 147	 7.05						   4.3
+ONE MILE AVG															 149
+					MN	99	D	 127.6	 127.5	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 144	 7.43						   4.1
+					MN	99	D	 127.5	 127.4	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 145	 6.61						   4.2
+					MN	99	D	 127.4	 127.3	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 7.92						   4.3
+					MN	99	D	 127.3	 127.2	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 149	 6.92						   4.3
+					MN	99	D	 127.2	 127.1	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 152	 6.38						   4.5
+					MN	99	D	 127.1	 127.0	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 145	 5.79						   4.2
+					MN	99	D	 127.0	 126.9	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 6.85						   4.3
+					MN	99	D	 126.9	 126.8	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 152	 7.84						   4.4
+					MN	99	D	 126.8	 126.7	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 151	 7.53						   4.4
+					MN	99	D	 126.7	 126.6	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 147	 5.69						   4.3
+ONE MILE AVG															 148
+					MN	99	D	 126.6	 126.5	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 150	 7.94						   4.4
+					MN	99	D	 126.5	 126.4	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 6.06						   4.3
+					MN	99	D	 126.4	 126.3	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 149	 6.36						   4.3
+					MN	99	D	 126.3	 126.2	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 152	 6.11						   4.4
+					MN	99	D	 126.2	 126.1	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 151	 5.62						   4.4
+					MN	99	D	 126.1	 126.0	 46.6590N	 96.4055W	 46.6590N	 96.4055W	LL	 148	 8.43						   4.3
+ONE MILE AVG															 150

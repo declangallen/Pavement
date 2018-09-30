@@ -1,0 +1,89 @@
+Comments/Description	Displays the Primary State Project Number	Displays the date when the line was installed.	Displays the time that striping started.	Displays the time that striping ended.	Displays the route system class.	Displays the route number with system type.	Direction of travel on roadway.	Displays the starting reference post number with offset value where retroreflectivity readings were taken.	Displays the ending reference post number with offset value where retroreflectivity readings were taken.	Displays the geographic latitude value of the starting point location.	Displays the geographic longitude value of the starting point location.	Displays the geographic latitude value of the ending point location.	Displays the geographic longitude value of the ending point location.	Marking line type	Displays the average retroreflectivity reading for the segment reported.  Have 10 rows for the 1/10th mile segments and then one row to summarize the 1 mile segment.	Displays the standard deviation of retroreflective reading for the segment reported.  Have 10 rows for 1/10th mile and then one row to summarize the 1 mile segment.	Marking Material Type	Displays the presence of a pavement groove.	Displays the presence of a pavement rumble stripe.	Displays commentary about the roadway or collection process.	Displays the year the line was installed	Displays the contrast value of the pavement marking.
+					MN	71	I	 148.1	 148.2	 45.4518N	 94.9867W	 45.4530N	 94.9854W	REL	 149	39.76						   6.1
+					MN	71	I	 148.2	 148.3	 45.4530N	 94.9854W	 45.4543N	 94.9847W	REL	 225	38.45						   7.4
+					MN	71	I	 148.3	 148.4	 45.4543N	 94.9847W	 45.4556N	 94.9846W	REL	 257	38.12						   9.3
+					MN	71	I	 148.4	 148.5	 45.4556N	 94.9846W	 45.4571N	 94.9845W	REL	 235	37.77						   7.7
+					MN	71	I	 148.5	 148.6	 45.4571N	 94.9845W	 45.4585N	 94.9845W	REL	 231	26.43						   8.3
+					MN	71	I	 148.6	 148.7	 45.4585N	 94.9845W	 45.4599N	 94.9845W	REL	 249	37.01						   8.2
+					MN	71	I	 148.7	 148.8	 45.4599N	 94.9845W	 45.4614N	 94.9841W	REL	 221	27.24						   7.2
+					MN	71	I	 148.8	 148.9	 45.4614N	 94.9841W	 45.4626N	 94.9832W	REL	 228	25.42						   8.5
+					MN	71	I	 148.9	 149.0	 45.4626N	 94.9832W	 45.4637N	 94.9819W	REL	 220	42.31						   7.8
+					MN	71	I	 149.0	 149.1	 45.4637N	 94.9819W	 45.4647N	 94.9804W	REL	 253	21.49						   8.1
+ONE MILE AVG															 226
+					MN	71	I	 149.1	 149.2	 45.4647N	 94.9804W	 45.4658N	 94.9790W	REL	 282	38.06						   9.1
+					MN	71	I	 149.2	 149.3	 45.4658N	 94.9790W	 45.4670N	 94.9780W	REL	 277	27.43						   8.9
+					MN	71	I	 149.3	 149.4	 45.4670N	 94.9780W	 45.4683N	 94.9772W	REL	 281	48.33						   9.4
+					MN	71	I	 149.4	 149.5	 45.4683N	 94.9772W	 45.4697N	 94.9766W	REL	 280	41.97						   9.4
+					MN	71	I	 149.5	 149.6	 45.4697N	 94.9766W	 45.4711N	 94.9759W	REL	 238	46.44						   8.5
+					MN	71	I	 149.6	 149.7	 45.4711N	 94.9759W	 45.4723N	 94.9750W	REL	 228	22.98						   7.2
+					MN	71	I	 149.7	 149.8	 45.4723N	 94.9750W	 45.4735N	 94.9739W	REL	 273	19.78						   8.8
+					MN	71	I	 149.8	 149.9	 45.4735N	 94.9739W	 45.4747N	 94.9727W	REL	 269	16.72						   8.6
+					MN	71	I	 149.9	 150.0	 45.4747N	 94.9727W	 45.4758N	 94.9715W	REL	 272	32.89						   8.7
+					MN	71	I	 150.0	 150.1	 45.4758N	 94.9715W	 45.4770N	 94.9703W	REL	 232	15.17						   7.3
+ONE MILE AVG															 265
+					MN	71	I	 150.1	 150.2	 45.4770N	 94.9703W	 45.4782N	 94.9692W	REL	 240	28.76						   7.9
+					MN	71	I	 150.2	 150.3	 45.4782N	 94.9692W	 45.4794N	 94.9681W	REL	 223	38.76						   7.0
+					MN	71	I	 150.3	 150.4	 45.4794N	 94.9681W	 45.4806N	 94.9670W	REL	 301	28.54						   9.8
+					MN	71	I	 150.4	 150.5	 45.4806N	 94.9670W	 45.4819N	 94.9659W	REL	 289	34.48						   9.3
+					MN	71	I	 150.5	 150.6	 45.4819N	 94.9659W	 45.4831N	 94.9648W	REL	 324	29.05						  10.6
+					MN	71	I	 150.6	 150.7	 45.4831N	 94.9648W	 45.4843N	 94.9637W	REL	 300	27.95						   9.7
+					MN	71	I	 150.7	 150.8	 45.4843N	 94.9637W	 45.4857N	 94.9626W	REL	 271	56.96						   8.7
+					MN	71	I	 150.8	 150.9	 45.4857N	 94.9626W	 45.4871N	 94.9619W	REL	 259	39.06						   8.3
+					MN	71	I	 150.9	 151.0	 45.4871N	 94.9619W	 45.4884N	 94.9611W	REL	 210	38.01						   7.1
+					MN	71	I	 151.0	 151.1	 45.4884N	 94.9611W	 45.4897N	 94.9602W	REL	 231	27.66						   7.3
+ONE MILE AVG															 266
+					MN	71	I	 151.1	 151.2	 45.4897N	 94.9602W	 45.4910N	 94.9593W	REL	 263	17.93						   8.4
+					MN	71	I	 151.2	 151.3	 45.4910N	 94.9593W	 45.4923N	 94.9584W	REL	 283	25.91						   9.1
+					MN	71	I	 151.3	 151.4	 45.4923N	 94.9584W	 45.4935N	 94.9575W	REL	 270	66.28						   9.0
+					MN	71	I	 151.4	 151.5	 45.4935N	 94.9575W	 45.4948N	 94.9566W	REL	 267	46.80						   8.5
+					MN	71	I	 151.5	 151.6	 45.4948N	 94.9566W	 45.4961N	 94.9556W	REL	 203	36.26						   6.8
+					MN	71	I	 151.6	 151.7	 45.4961N	 94.9556W	 45.4973N	 94.9545W	REL	 236	17.72						   7.5
+					MN	71	I	 151.7	 151.8	 45.4973N	 94.9545W	 45.4984N	 94.9532W	REL	 291	36.42						   9.4
+					MN	71	I	 151.8	 151.9	 45.4984N	 94.9532W	 45.4996N	 94.9520W	REL	 209	64.33						   7.1
+					MN	71	I	 151.9	 152.0	 45.4996N	 94.9520W	 45.5009N	 94.9512W	REL	 201	24.64						   6.2
+					MN	71	I	 152.0	 152.1	 45.5009N	 94.9512W	 45.5022N	 94.9503W	REL	 208	37.04						   6.7
+ONE MILE AVG															 243
+					MN	71	I	 152.1	 152.2	 45.5022N	 94.9503W	 45.5035N	 94.9494W	REL	 265	57.48						   8.5
+					MN	71	I	 152.2	 152.3	 45.5035N	 94.9494W	 45.5048N	 94.9486W	REL	 257	30.78						   8.2
+					MN	71	I	 152.3	 152.4	 45.5048N	 94.9486W	 45.5061N	 94.9479W	REL	 261	28.29						   8.7
+					MN	71	I	 152.4	 152.5	 45.5061N	 94.9479W	 45.5076N	 94.9476W	REL	 218	29.31						   6.8
+					MN	71	I	 152.5	 152.6	 45.5076N	 94.9476W	 45.5090N	 94.9476W	REL	 212	34.55						   7.2
+					MN	71	I	 152.6	 152.7	 45.5090N	 94.9476W	 45.5104N	 94.9476W	REL	 263	25.36						   8.4
+					MN	71	I	 152.7	 152.8	 45.5104N	 94.9476W	 45.5119N	 94.9476W	REL	 233	48.58						   7.4
+					MN	71	I	 152.8	 152.9	 45.5119N	 94.9476W	 45.5133N	 94.9476W	REL	 280	18.43						   9.0
+					MN	71	I	 152.9	 153.0	 45.5133N	 94.9476W	 45.5147N	 94.9476W	REL	 293	23.48						   9.5
+					MN	71	I	 153.0	 153.1	 45.5147N	 94.9476W	 45.5162N	 94.9476W	REL	 288	28.20						   9.3
+ONE MILE AVG															 258
+					MN	71	I	 153.1	 153.2	 45.5162N	 94.9476W	 45.5176N	 94.9477W	REL	 292	37.38						   9.4
+					MN	71	I	 153.2	 153.3	 45.5176N	 94.9477W	 45.5191N	 94.9477W	REL	 256	41.74						   8.5
+					MN	71	I	 153.3	 153.4	 45.5191N	 94.9477W	 45.5205N	 94.9477W	REL	 270	18.89						   8.3
+					MN	71	I	 153.4	 153.5	 45.5205N	 94.9477W	 45.5219N	 94.9477W	REL	 230	30.06						   7.2
+					MN	71	I	 153.5	 153.6	 45.5219N	 94.9477W	 45.5234N	 94.9477W	REL	 247	43.95						   7.8
+					MN	71	I	 153.6	 153.7	 45.5234N	 94.9477W	 45.5248N	 94.9477W	REL	 301	20.83						   9.8
+					MN	71	I	 153.7	 153.8	 45.5248N	 94.9477W	 45.5262N	 94.9477W	REL	 255	23.88						   8.1
+					MN	71	I	 153.8	 153.9	 45.5262N	 94.9477W	 45.5277N	 94.9477W	REL	 188	31.70						   6.0
+					MN	71	I	 153.9	 154.0	 45.5277N	 94.9477W	 45.5291N	 94.9477W	REL	 188	26.26						   5.7
+					MN	71	I	 154.0	 154.1	 45.5291N	 94.9477W	 45.5305N	 94.9477W	REL	 232	21.58						   7.3
+ONE MILE AVG															 244
+					MN	71	I	 154.1	 154.2	 45.5305N	 94.9477W	 45.5320N	 94.9477W	REL	 249	26.56						   7.9
+					MN	71	I	 154.2	 154.3	 45.5320N	 94.9477W	 45.5334N	 94.9477W	REL	 246	36.75						   7.8
+					MN	71	I	 154.3	 154.4	 45.5334N	 94.9477W	 45.5349N	 94.9477W	REL	 251	17.15						   8.0
+					MN	71	I	 154.4	 154.5	 45.5349N	 94.9477W	 45.5363N	 94.9477W	REL	 231	29.62						   7.3
+					MN	71	I	 154.5	 154.6	 45.5363N	 94.9477W	 45.5377N	 94.9477W	REL	 244	67.25						   8.0
+					MN	71	I	 154.6	 154.7	 45.5377N	 94.9477W	 45.5392N	 94.9476W	REL	 261	35.99						   8.3
+					MN	71	I	 154.7	 154.8	 45.5392N	 94.9476W	 45.5406N	 94.9476W	REL	 260	26.31						   8.3
+					MN	71	I	 154.8	 154.9	 45.5406N	 94.9476W	 45.5420N	 94.9476W	REL	 254	15.08						   8.1
+					MN	71	I	 154.9	 155.0	 45.5420N	 94.9476W	 45.5435N	 94.9476W	REL	 248	51.83						   9.3
+					MN	71	I	 155.0	 155.1	 45.5435N	 94.9476W	 45.5449N	 94.9475W	REL	 259	22.22						   8.3
+ONE MILE AVG															 251
+					MN	71	I	 155.1	 155.2	 45.5449N	 94.9475W	 45.5463N	 94.9475W	REL	 249	32.20						   7.9
+					MN	71	I	 155.2	 155.3	 45.5463N	 94.9475W	 45.5478N	 94.9475W	REL	 260	40.23						   8.6
+					MN	71	I	 155.3	 155.4	 45.5478N	 94.9475W	 45.5492N	 94.9474W	REL	 249	22.11						   8.2
+					MN	71	I	 155.4	 155.5	 45.5492N	 94.9474W	 45.5507N	 94.9474W	REL	 227	22.84						   7.1
+					MN	71	I	 155.5	 155.6	 45.5507N	 94.9474W	 45.5521N	 94.9474W	REL	 292	22.93						   9.1
+					MN	71	I	 155.6	 155.7	 45.5521N	 94.9474W	 45.5535N	 94.9474W	REL	 290	34.99						   9.8
+					MN	71	I	 155.7	 155.8	 45.5535N	 94.9474W	 45.5550N	 94.9473W	REL	 235	56.23						   8.1
+					MN	71	I	 155.8	 155.9	 45.5550N	 94.9473W	 45.5564N	 94.9473W	REL	 225	28.75						   7.1
+					MN	71	I	 155.9	 156.0	 45.5564N	 94.9473W	 45.5578N	 94.9473W	REL	 226	27.09						   7.1
+					MN	71	I	 156.0	 156.1	 45.5578N	 94.9473W	 45.5583N	 94.9473W	REL	 253	33.54						   7.7
+ONE MILE AVG															 250

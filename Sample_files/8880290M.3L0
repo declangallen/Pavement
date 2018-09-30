@@ -1,0 +1,39 @@
+MN 19 152.6 153.0 E CL   JT 	8880290M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.40	
+Date                           :	08/08/118	
+Start Time                     :	16:14	
+Stop Time                      :	16:16	
+Start Chainage                 :	   152.600	 mi
+End Chainage                   :	   153.100	 mi
+Start GPS Coordinates          :	44.54358 N	93.54942 W
+End GPS Coordinates            :	44.54360 N	93.53997 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	146	 47.44	
+Valid Scan Percentage          :	 65%	
+Average Left Stripe Width (in) :	4.2	
+Average Right Stripe Width (in):	4.0	
+Contrast Ratio                 :	5.1	
+State                          :	MN	
+Highway                        :	19	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	 40%
+ 145 <  Percent of Intervals <=  175  :	 60%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+  152.7000	 125	 70	 21	 38	 108	 121	  4.5	  23	YTC00V0000000000	37.34	 44.5436N	 93.5474W	 0	 33.7
+  152.8000	 163	 69	 23	 53	 190	 152	  5.8	  24	YTC00V0000000000	47.16	 44.5436N	 93.5453W	 0	 33.7
+  152.9000	 116	 33	 58	 17	 163	 108	  3.8	  24	YTC00I0000007000	46.16	 44.5436N	 93.5432W	 0	 33.7
+  153.0000	 165	 56	 35	 34	 211	 169	  6.2	  23	YTS01V0000000000	50.19	 44.5436N	 93.5411W	 0	 33.7
+  153.1000	 149	 49	 10	 13	 159	 138	  4.8	  26	YTS01V0000000000	37.55	 44.5436N	 93.5400W	 0	 33.6

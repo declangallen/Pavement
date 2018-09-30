@@ -1,0 +1,34 @@
+MN I-35W 0.0 1.0 N REL Epoxy 1234 TCB none	6AP0520M.3L0	
+Stripe Calib Factor            :	1.49	
+DMI Calibration                :	37.730 pulses/m (11.500 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.20	
+Date                           :	25/10/116	
+Start Time                     :	10:47	
+Stop Time                      :	10:47	
+Start Chainage                 :	     0.000	 mi
+End Chainage                   :	     0.200	 mi
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	600	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	231	 82.21	
+Valid Scan Percentage          :	 21%	
+Average Left Stripe Width (in) :	0.0	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	76.0	
+State                          :	MN	
+Highway                        :	I-35W	
+        Percent of Intervals <    85  :	  0%
+  85 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  150  :	  0%
+ 150 <  Percent of Intervals <=  200  :	  0%
+ 200 <  Percent of Intervals <=  300  :	100%
+ 300 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	LStdev	RStdev	Hinv	Tempp
+    0.1000	 218	 22	 84	  0	   0	   0	 72.0	   3	WOC00V0000000000	86.75	 0.00	 0.00	 0	 24.3
+    0.2000	 272	  7	 23	  0	   0	   0	 89.7	   3	WOC00V0000000000	51.93	 0.00	 0.00	 0	 24.3

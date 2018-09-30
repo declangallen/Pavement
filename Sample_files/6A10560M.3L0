@@ -31,7 +31,8 @@ Highway                        :	I-35W
  300 <  Percent of Intervals          :	  0%
 NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
 INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
-Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp   0.1000	   0	  0	 55	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 0.00	 45.3288N	 93.2363W	 0	 25.2
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+	0.1000	   0	  0	 55	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 0.00	 45.3288N	 93.2363W	 0	 25.2
     0.2000	 129	  3	 50	  0	   0	   0	128.7	   1	WOC00V0000000000	 4.93	 45.3304N	 93.2364W	 0	 25.2
     0.3000	 140	  2	 52	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 4.95	 45.3316N	 93.2364W	 0	 25.2
     0.4000	   0	  0	 54	  0	   0	   0	 -1.0	   0	WOC00V0000000000	 0.00	 45.3331N	 93.2364W	 0	 25.2

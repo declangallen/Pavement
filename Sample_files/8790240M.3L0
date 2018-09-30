@@ -1,0 +1,45 @@
+MN 169 3.0 2.0 S CL   JT 	8790240M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-L	
+Software Version               :	7.30	
+Date                           :	09/07/118	
+Start Time                     :	15:54	
+Stop Time                      :	15:55	
+Start Chainage                 :	     3.000	 mi
+End Chainage                   :	     1.900	 mi
+Start GPS Coordinates          :	43.54426 N	94.08472 W
+End GPS Coordinates            :	43.52924 N	94.08647 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	 68	 13.90	
+Valid Scan Percentage          :	 10%	
+Average Left Stripe Width (in) :	0.0	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	1.7	
+State                          :	MN	
+Highway                        :	169	
+        Percent of Intervals <    80  :	 64%
+  80 <= Percent of Intervals <   100  :	 36%
+ 100 <= Percent of Intervals <=  145  :	  0%
+ 145 <  Percent of Intervals <=  175  :	  0%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+    2.9000	  69	 13	 54	  0	   0	   0	  1.7	  26	YOS00V0000000000	13.66	 43.5429N	 94.0848W	 0	 35.6
+    2.8000	  58	  3	 60	  0	   0	   0	  1.4	  24	YOS00V0000000000	10.79	 43.5414N	 94.0850W	 0	 35.7
+    2.7000	  90	  7	 59	  0	   0	   0	  2.6	  25	YOS00V0000000000	 0.00	 43.5401N	 94.0852W	 0	 35.7
+    2.6000	  88	  6	 60	  0	   0	   0	  2.4	  26	YOS00V0000000000	 0.00	 43.5385N	 94.0854W	 0	 35.7
+    2.5000	  88	  8	 60	  0	   0	   0	  2.5	  25	YOS00V0000000000	 0.00	 43.5372N	 94.0855W	 0	 35.6
+    2.4000	  75	  6	 60	  0	   0	   0	  1.9	  26	YOS00V0000000000	 0.00	 43.5356N	 94.0857W	 0	 35.6
+    2.3000	  83	  9	 59	  0	   0	   0	  2.2	  26	YOS00V0000000000	 0.00	 43.5343N	 94.0859W	 0	 35.6
+    2.2000	  70	  7	 60	  0	   0	   0	  1.8	  25	YOS00V0000000000	 0.00	 43.5328N	 94.0861W	 0	 35.6
+    2.1000	  62	  5	 61	  0	   0	   0	  1.6	  24	YOS00V0000000000	11.86	 43.5315N	 94.0862W	 0	 35.6
+    2.0000	  73	  8	 59	  0	   0	   0	  2.2	  23	YOS00V0000000000	 0.00	 43.5299N	 94.0864W	 0	 35.6
+    1.9000	  54	  3	 29	  0	   0	   0	  1.5	  22	YOS00V0000000000	 9.71	 43.5292N	 94.0865W	 0	 35.6

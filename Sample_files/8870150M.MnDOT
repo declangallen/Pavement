@@ -1,0 +1,21 @@
+Comments/Description	Displays the Primary State Project Number	Displays the date when the line was installed.	Displays the time that striping started.	Displays the time that striping ended.	Displays the route system class.	Displays the route number with system type.	Direction of travel on roadway.	Displays the starting reference post number with offset value where retroreflectivity readings were taken.	Displays the ending reference post number with offset value where retroreflectivity readings were taken.	Displays the geographic latitude value of the starting point location.	Displays the geographic longitude value of the starting point location.	Displays the geographic latitude value of the ending point location.	Displays the geographic longitude value of the ending point location.	Marking line type	Displays the average retroreflectivity reading for the segment reported.  Have 10 rows for the 1/10th mile segments and then one row to summarize the 1 mile segment.	Displays the standard deviation of retroreflective reading for the segment reported.  Have 10 rows for 1/10th mile and then one row to summarize the 1 mile segment.	Marking Material Type	Displays the presence of a pavement groove.	Displays the presence of a pavement rumble stripe.	Displays commentary about the roadway or collection process.	Displays the year the line was installed	Displays the contrast value of the pavement marking.
+					MN	59	D	 279.4	 279.3	 47.0380N	 95.9122W	 47.0366N	 95.9122W	REL	 195	57.02						   7.5
+					MN	59	D	 279.3	 279.2	 47.0366N	 95.9122W	 47.0350N	 95.9122W	REL	 260	28.61						  10.3
+					MN	59	D	 279.2	 279.1	 47.0350N	 95.9122W	 47.0336N	 95.9122W	REL	 189	53.01						   6.9
+					MN	59	D	 279.1	 279.0	 47.0336N	 95.9122W	 47.0322N	 95.9122W	REL	 213	36.14						   8.7
+					MN	59	D	 279.0	 278.9	 47.0322N	 95.9122W	 47.0308N	 95.9122W	REL	 239	25.29						   9.9
+					MN	59	D	 278.9	 278.8	 47.0308N	 95.9122W	 47.0294N	 95.9122W	REL	 223	31.23						   9.1
+					MN	59	D	 278.8	 278.7	 47.0294N	 95.9122W	 47.0280N	 95.9122W	REL	 248	50.06						   9.8
+					MN	59	D	 278.7	 278.6	 47.0280N	 95.9122W	 47.0266N	 95.9122W	REL	 210	30.46						   8.6
+					MN	59	D	 278.6	 278.5	 47.0266N	 95.9122W	 47.0249N	 95.9123W	REL	 219	32.35						   9.0
+					MN	59	D	 278.5	 278.4	 47.0249N	 95.9123W	 47.0235N	 95.9123W	REL	 222	33.07						   8.7
+ONE MILE AVG															 222
+					MN	59	D	 278.4	 278.3	 47.0235N	 95.9123W	 47.0221N	 95.9123W	REL	 233	27.02						   9.2
+					MN	59	D	 278.3	 278.2	 47.0221N	 95.9123W	 47.0207N	 95.9123W	REL	 194	37.37						  11.2
+					MN	59	D	 278.2	 278.1	 47.0207N	 95.9123W	 47.0193N	 95.9123W	REL	 146	35.40						   6.0
+					MN	59	D	 278.1	 278.0	 47.0193N	 95.9123W	 47.0179N	 95.9123W	REL	 193	29.81						   8.2
+					MN	59	D	 278.0	 277.9	 47.0179N	 95.9123W	 47.0163N	 95.9123W	REL	 198	38.58						   8.0
+					MN	59	D	 277.9	 277.8	 47.0163N	 95.9123W	 47.0149N	 95.9123W	REL	 170	40.87						   7.1
+					MN	59	D	 277.8	 277.7	 47.0149N	 95.9123W	 47.0135N	 95.9123W	REL	 168	33.68						   6.3
+					MN	59	D	 277.7	 277.6	 47.0135N	 95.9123W	 47.0128N	 95.9124W	REL	 137	34.45						   3.9
+ONE MILE AVG															 183

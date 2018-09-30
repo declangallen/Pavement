@@ -1,0 +1,42 @@
+MN 99 34.0 0.0 S REL   JT 	8870120M.3L0	
+Stripe Calib Factor            :	1.00	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-R	
+Software Version               :	7.40	
+Date                           :	07/08/118	
+Start Time                     :	08:07	
+Stop Time                      :	08:10	
+Start Chainage                 :	    34.000	 mi
+End Chainage                   :	    33.200	 mi
+Start GPS Coordinates          :	46.98013 N	95.90775 W
+End GPS Coordinates            :	46.98013 N	95.90775 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	161	  5.64	
+Valid Scan Percentage          :	 98%	
+Average Left Stripe Width (in) :	3.8	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	5.0	
+State                          :	MN	
+Highway                        :	99	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	  0%
+ 145 <  Percent of Intervals <=  175  :	100%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Temp
+   33.9000	 162	 34	  1	  0	   0	   0	  5.0	  27	WOC00V0000000000	 5.07	 46.9801N	 95.9077W	 0	 25.1
+   33.8000	 162	 36	  0	  0	   0	   0	  5.0	  27	WOC00V0000000000	 5.35	 46.9801N	 95.9077W	 0	 25.1
+   33.7000	 161	 36	  1	  0	   0	   0	  5.0	  27	WOC00V0000000000	 4.86	 46.9801N	 95.9077W	 0	 25.1
+   33.6000	 159	 37	  0	  0	   0	   0	  4.9	  27	WOC00V0000000000	 6.22	 46.9801N	 95.9077W	 0	 25.1
+   33.5000	 161	 36	  0	  0	   0	   0	  4.8	  28	WOC00V0000000000	 5.88	 46.9801N	 95.9077W	 0	 25.1
+   33.4000	 160	 35	  1	  0	   0	   0	  4.9	  27	WOC00V0000000000	 5.45	 46.9801N	 95.9077W	 0	 25.1
+   33.3000	 160	 35	  0	  0	   0	   0	  5.0	  27	WOC00V0000000000	 6.00	 46.9801N	 95.9077W	 0	 25.1
+   33.2000	 161	 10	  0	  0	   0	   0	  5.0	  27	WOC00V0000000000	 5.87	 46.9801N	 95.9077W	 0	 25.1

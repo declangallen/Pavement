@@ -1,0 +1,60 @@
+MN 99 128.6 120.0 W LL   JT 	8860110M.3L0	
+Stripe Calib Factor            :	1.11	
+DMI Calibration                :	37.894 pulses/m (11.550 pulses/ft)	
+Hardware ID                    :	156-R	
+Software Version               :	7.40	
+Date                           :	06/08/118	
+Start Time                     :	14:01	
+Stop Time                      :	14:02	
+Start Chainage                 :	   128.600	 mi
+End Chainage                   :	   126.000	 mi
+Start GPS Coordinates          :	46.65903 N	96.40550 W
+End GPS Coordinates            :	46.65903 N	96.40550 W
+Station Interval               :	528.00	 f
+Lower Validation Threshold     :	 20	
+Upper Validation Threshold     :	 40	
+Rejection Threshold            :	999	
+Sample Size                    :	200	
+Background Interval            :	101	
+Retroreflectivity, Ave, Stdev  :	149	  6.81	
+Valid Scan Percentage          :	 98%	
+Average Left Stripe Width (in) :	3.9	
+Average Right Stripe Width (in):	0.0	
+Contrast Ratio                 :	4.3	
+State                          :	MN	
+Highway                        :	99	
+        Percent of Intervals <    80  :	  0%
+  80 <= Percent of Intervals <   100  :	  0%
+ 100 <= Percent of Intervals <=  145  :	 12%
+ 145 <  Percent of Intervals <=  175  :	 88%
+ 175 <  Percent of Intervals <=  250  :	  0%
+ 250 <  Percent of Intervals          :	  0%
+NO LINE	CONST ZONE	THRU A TOWN	MAT CHANGE	CRACK SEAL	
+INT SEC/CHG	TURN LANE	BRIDGE	LINE DAMAGE	DIRT ON LINE	
+Chain	Ave	Valid	Inv	Dval	LAve	RAve	Ctr/Ratio	RdAve	Event Code	Stdev	GPSLat	GPSLon	Hinv	Tempemp
+  128.5000	 151	 35	  1	  0	   0	   0	  4.4	  28	WOS00V0000000000	 5.58	 46.6590N	 96.4055W	 0	 25.2
+  128.4000	 147	 32	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 3.68	 46.6590N	 96.4055W	 0	 25.2
+  128.3000	 148	 35	  1	  0	   0	   0	  4.3	  28	WOS00V0000000000	 4.89	 46.6590N	 96.4055W	 0	 25.2
+  128.2000	 149	 35	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 5.47	 46.6590N	 96.4055W	 0	 25.2
+  128.1000	 152	 35	  0	  0	   0	   0	  4.4	  28	WOS00V0000000000	 5.35	 46.6590N	 96.4055W	 0	 25.2
+  128.0000	 153	 34	  1	  0	   0	   0	  4.5	  28	WOS00V0000000000	 6.67	 46.6590N	 96.4055W	 0	 25.2
+  127.9000	 148	 36	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 5.31	 46.6590N	 96.4055W	 0	 25.2
+  127.8000	 151	 35	  0	  0	   0	   0	  4.4	  28	WOS00V0000000000	 6.47	 46.6590N	 96.4055W	 0	 25.2
+  127.7000	 146	 33	  2	  0	   0	   0	  4.4	  27	WOS00V0000000000	 5.53	 46.6590N	 96.4055W	 0	 25.2
+  127.6000	 147	 36	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 7.05	 46.6590N	 96.4055W	 0	 25.2
+  127.5000	 144	 37	  0	  0	   0	   0	  4.1	  28	WOS00V0000000000	 7.43	 46.6590N	 96.4055W	 0	 25.2
+  127.4000	 145	 31	  1	  0	   0	   0	  4.2	  28	WOS00V0000000000	 6.61	 46.6590N	 96.4055W	 0	 25.2
+  127.3000	 148	 33	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 7.92	 46.6590N	 96.4055W	 0	 25.2
+  127.2000	 149	 32	  1	  0	   0	   0	  4.3	  28	WOS00V0000000000	 6.92	 46.6590N	 96.4055W	 0	 25.2
+  127.1000	 152	 36	  1	  0	   0	   0	  4.5	  28	WOS00V0000000000	 6.38	 46.6590N	 96.4055W	 0	 25.2
+  127.0000	 145	 34	  0	  0	   0	   0	  4.2	  28	WOS00V0000000000	 5.79	 46.6590N	 96.4055W	 0	 25.2
+  126.9000	 148	 31	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 6.85	 46.6590N	 96.4055W	 0	 25.2
+  126.8000	 152	 34	  1	  0	   0	   0	  4.4	  28	WOS00V0000000000	 7.84	 46.6590N	 96.4055W	 0	 25.2
+  126.7000	 151	 35	  0	  0	   0	   0	  4.4	  28	WOS00V0000000000	 7.53	 46.6590N	 96.4055W	 0	 25.2
+  126.6000	 147	 31	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 5.69	 46.6590N	 96.4055W	 0	 25.2
+  126.5000	 150	 35	  1	  0	   0	   0	  4.4	  28	WOS00V0000000000	 7.94	 46.6590N	 96.4055W	 0	 25.2
+  126.4000	 148	 37	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 6.06	 46.6590N	 96.4055W	 0	 25.2
+  126.3000	 149	 33	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 6.36	 46.6590N	 96.4055W	 0	 25.2
+  126.2000	 152	 34	  1	  0	   0	   0	  4.4	  28	WOS00V0000000000	 6.11	 46.6590N	 96.4055W	 0	 25.2
+  126.1000	 151	 31	  0	  0	   0	   0	  4.4	  28	WOS00V0000000000	 5.62	 46.6590N	 96.4055W	 0	 25.2
+  126.0000	 148	 18	  0	  0	   0	   0	  4.3	  28	WOS00V0000000000	 8.43	 46.6590N	 96.4055W	 0	 25.2
